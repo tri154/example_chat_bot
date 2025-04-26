@@ -1,0 +1,2 @@
+llama-index==0.12.33
+llama-index-llms-google-genai==0.1.8
