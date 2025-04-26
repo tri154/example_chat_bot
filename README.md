@@ -1,1 +1,3 @@
 # example_chat_bot
+Ví dụ về chatbot.
+Thêm các tool khác như RAG, RAPTOR,...
